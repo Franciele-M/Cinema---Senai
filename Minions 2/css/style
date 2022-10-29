@@ -56,7 +56,7 @@
 /* ============== I N F O   D O   F I L M E ============== */
 #titulo_filme{
     font-family: 'Inter', sans-serif;
-    font-size: 28px;
+    font-size: 26px;
     color: white;
 }
 
@@ -69,13 +69,13 @@
 #duracao_filme{
     font-family: 'Inter', sans-serif;
     color: white;
-    font-size: 22px;
+    font-size: 17px;
 }
 
 #sinopse{
     font-family: 'Inter', sans-serif;
     color: white;
-    font-size: 22px;
+    font-size: 17px;
     margin-top: 5px;
     text-align: justify;
     line-height: 0.55cm;
